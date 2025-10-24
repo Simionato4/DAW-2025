@@ -1,14 +1,14 @@
-import { Header } from "./components/layout/Header"
-import { Footer } from "./components/layout/Header/Footer"
+import { Footer } from "./components/layout/footer";
+import { Header } from "./components/layout/header";
 
 function App() {
   return (
     <>
-     <Header/>
-     <main></main>
-     <Footer/>
+      <Header />
+      <main></main>
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
