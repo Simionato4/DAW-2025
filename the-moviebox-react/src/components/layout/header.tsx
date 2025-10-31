@@ -7,13 +7,20 @@ export function Header() {
         </h1>
         <div className="flex gap-4">
           <a
-            className="text-white text-sm py-2 px-4 border border-[#333] rounded-sm transition hover:bg-[#333]"
+            className="
+            text-white text-sm py-2 px-4 border
+            border-[#333] rounded-sm transition 
+            hover:bg-[#333]"
             href="#"
           >
             Entrar
           </a>
           <a
-            className="text-white text-sm py-2 px-4 bg-[#e50914] border border-[#e50914] rounded-sm transition hover:bg-[#b8070f]"
+            className="
+            text-white text-sm py-2 px-4 
+            bg-[#e50914] border 
+            border-[#e50914] rounded-sm transition 
+            hover:bg-[#b8070f]"
             href="#"
           >
             Registrar
